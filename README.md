@@ -12,13 +12,13 @@ This project is a web application for Delani studio that shows details about the
 
 
 ## Live Page 
-https://Andrew1440.github.io/DelaniStudio 
+
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Andrew1440/DelaniStudio.git```
+* git clone ```https://github.com/andrew1440/Delani.git```
 
 * cd DelaniStudio
 
