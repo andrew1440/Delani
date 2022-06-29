@@ -20,7 +20,7 @@ This project is a web application for Delani studio that shows details about the
 
 * git clone ```https://github.com/andrew1440/Delani.git```
 
-* cd DelaniStudio
+* cd Delani
 
 * code . or atom . depending on the text editor of your choise.
 
@@ -51,5 +51,5 @@ If you have any question or contributions, please email me at [drewodongo470@gma
 
 ## License
 * *MIT License:*
-* Copyright (c) 2022 **Andrew OdongoO**
+* Copyright (c) 2022 **Andrew Odongo**
 
